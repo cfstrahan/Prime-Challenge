@@ -12,8 +12,11 @@ h1 {
 	text-align: center;
 
 } 
-.contact-info {
+header {
 	text-align: center;
+	border: 3px solid;
+	border-radius: 15px;
+	
 }
 h2 {
 	font-style: italic;
@@ -31,4 +34,7 @@ h4 {
 }
 .purple {
 	margin-bottom: 20px;
+}
+em {
+	margin-left: 15px;
 }
