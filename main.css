@@ -1,6 +1,7 @@
 body {
 	background-color: #9FB4D8;
 	border: 6px solid black;
+	border-radius: 15px;
   	margin: 2px;
   	text-align: left;
   	padding: 30px;
@@ -12,7 +13,7 @@ h1 {
 	text-align: center;
 	
 } 
-.section {
+section {
 	text-align: center;
 }
 h2 {
